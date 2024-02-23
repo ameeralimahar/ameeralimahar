@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ameer Ali</h1>
 <h3 align="center">MERN Stack Developer from Pakistan</h3>
-<a  href="https://ameerali.vercel.app/" <h4 align="center">Visit my Portfolio Website</h4> </a>
+<div  align="center"><a  href="https://ameerali.vercel.app/" <h4 align="center">Visit my Portfolio Website</h4> </a></div>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameeralimahar&label=Profile%20views&color=0e75b6&style=flat" alt="ameeralimahar" /> </p>
 
